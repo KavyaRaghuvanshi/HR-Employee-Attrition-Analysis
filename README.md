@@ -98,22 +98,6 @@ HR-Employee-Attrition-Analysis/
 
 ---
 
-## 📸 Project Screenshots
-
-### Employee Attrition Distribution
-
-![Attrition Distribution](images/attrition_distribution.png)
-
-### Overtime vs Attrition Analysis
-
-![Overtime Analysis](images/overtime_analysis.png)
-
-### Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
----
-
 ## 📊 Business Impact
 
 This analysis helps HR teams:
