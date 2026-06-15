@@ -90,10 +90,6 @@ HR-Employee-Attrition-Analysis/
 ├── HR_Attrition_Risk_Report.csv
 ├── README.md
 │
-└── images/
-    ├── attrition_distribution.png
-    ├── overtime_analysis.png
-    └── correlation_heatmap.png
 ```
 
 ---
